@@ -1,0 +1,13 @@
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Programmed to Kill (C-Sharp)\obj\x86\Debug\Programmed to Kill (C-Sharp).csprojResolveAssemblyReference.cache
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Programmed to Kill (C-Sharp)\bin\Debug\csfml-audio-2.dll
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Programmed to Kill (C-Sharp)\bin\Debug\csfml-graphics-2.dll
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Programmed to Kill (C-Sharp)\bin\Debug\csfml-system-2.dll
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Programmed to Kill (C-Sharp)\bin\Debug\csfml-window-2.dll
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Programmed to Kill (C-Sharp)\bin\Debug\Programmed to Kill (C-Sharp).exe
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Programmed to Kill (C-Sharp)\bin\Debug\Programmed to Kill (C-Sharp).pdb
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Programmed to Kill (C-Sharp)\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Programmed to Kill (C-Sharp)\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Programmed to Kill (C-Sharp)\bin\Debug\sfmlnet-system-2.dll
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Programmed to Kill (C-Sharp)\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Programmed to Kill (C-Sharp)\obj\x86\Debug\Programmed to Kill (C-Sharp).exe
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Programmed to Kill (C-Sharp)\obj\x86\Debug\Programmed to Kill (C-Sharp).pdb
